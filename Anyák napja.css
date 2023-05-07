@@ -17,7 +17,7 @@ h1 {
 i {
     color: red;
     font-size: 100px;
-    text-shadow: pink, 0 0 50px pink;
+    text-shadow: 0 0 10px pink, 0 0 50px pink;
     animation: heartbeat 0.8s infinite;
 }
 
